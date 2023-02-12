@@ -23,7 +23,7 @@ btn.addEventListener("click", (e) => {
     element.innerHTML = msg; // Set status
   }
 
-  sendData("http://localhost:8080/cred", {
+  sendData("http://mongodbsite-varunjagtap424.koyeb.app:8000/cred", {
     email: email_value,
     password: password_value,
   }).then((result) => {
