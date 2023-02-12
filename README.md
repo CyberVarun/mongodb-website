@@ -44,7 +44,7 @@ const collec = database.collection("Collection_name");
 You will also need to change uri in src/js/login.js
 
 ```JS
-sendData("protocol://uri/cred" { data });
+sendData("protocol://uri/cred", { data });
 ```
 
 Done!
