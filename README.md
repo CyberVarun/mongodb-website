@@ -1,6 +1,6 @@
 ## A simple login page using node JS & MongoDB.
 
-##### Dependencies
+### Dependencies
 
 ```
 express": "^4.18.2
@@ -9,7 +9,7 @@ mongodb": "5.0
 
 <hr>
 
-##### Installation
+### Installation
 
 ```bash
 npm install express mongodb@5.0
@@ -56,6 +56,6 @@ node index.js
 
 <hr>
 
-##### Sample
+### Sample
 
 ![login successful image](./src/img/login_successful.png)
