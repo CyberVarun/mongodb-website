@@ -23,7 +23,7 @@ btn.addEventListener("click", (e) => {
     element.innerHTML = msg; // Set status
   }
 
-  sendData("http://mongodbsite-varunjagtap424.koyeb.app/cred", {
+  sendData("https://mongodbsite-varunjagtap424.koyeb.app/cred", {
     email: email_value,
     password: password_value,
   }).then((result) => {
