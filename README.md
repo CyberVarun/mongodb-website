@@ -1,4 +1,4 @@
-#### A simple login page using node JS & MongoDB.
+## A simple login page using node JS & MongoDB.
 
 <hr>
 
@@ -37,7 +37,7 @@ export PORT="port_number"
 
 Default port will be 8080. If 'PORT' variable is not present.
 
-Then add your 'DATABASE' and 'COLLECTION' name in
+Then add your 'DATABASE' and 'COLLECTION' name in index.js as follows
 
 ```JS
 const database = client.db("Database_name");
