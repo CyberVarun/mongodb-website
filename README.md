@@ -1,7 +1,5 @@
 ## A simple login page using node JS & MongoDB.
 
-<hr>
-
 ##### Dependencies
 
 ```
